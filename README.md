@@ -43,7 +43,7 @@ Here are 50 examples of how ChatGPT can help your research.
 29. [Provide feedback on the appropriateness of research questions and hypotheses](#29-Using-ChatGPT-for-Feedback-on-Research-Questions-and-Hypotheses)
 30. [Offer suggestions for developing effective and relevant research questions](#30-Suggestions-for-Developing-Effective-and-Relevant-Research-Questions)
 31. [Provide guidance on selecting appropriate research designs](#31-Guidance-on-Selecting-Appropriate-Research-Designs)
-32. Assist with developing and implementing research studies
+32. [Assist with developing and implementing research studies](#32-Assist-with-developing-and-implementing-research-studies)
 33. Suggest effective strategies for collecting and analyzing data
 34. Assist with identifying and avoiding common research pitfalls
 35. Provide recommendations for writing and submitting research papers for publication
